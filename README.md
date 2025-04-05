@@ -58,12 +58,19 @@ This project is a comprehensive voice-controlled intelligent assistant that inte
     ```bash
     python your_script_name.py
     ```
+## Setup
+Create a .env file 
+Add variables in it including:-
+API_KEY=YOUR GEMINI API KEY
+EGDE_WBDRIVER_PATH 
+link for EGDE_WEBDRIVER_PATH ="https://developer.microsoft.com/en-in/microsoft-edge/tools/webdriver?form=MA13LH"
+
 
 6.  Follow the voice prompts to interact with the assistant.
 
-## Notes
+## Important Notice:-
 
 * This script is designed for Windows environments.
 * Voice recognition accuracy may vary depending on microphone quality and ambient noise.
 * Ensure a stable internet connection for Gemini API and voice recognition.
-* The edge driver path in the code must be updated to the correct location of your webdriver.
+* This is our working prototype much more changes can be made and which can help for future updates 
