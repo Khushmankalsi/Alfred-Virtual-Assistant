@@ -66,9 +66,13 @@ EGDE_WBDRIVER_PATH
 link for EGDE_WEBDRIVER_PATH ="https://developer.microsoft.com/en-in/microsoft-edge/tools/webdriver?form=MA13LH"
 
 
+## For OS AUTOMATION
+you have to follow some steps from setup folder otherwise your code will not work 
+
 6.  Follow the voice prompts to interact with the assistant.
 
 ## Important Notice:-
+
 
 * This script is designed for Windows environments.
 * Voice recognition accuracy may vary depending on microphone quality and ambient noise.
